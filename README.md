@@ -24,9 +24,19 @@ Spring Boot solution for the Bajaj Finserv Health SRM Java qualifier.
 Update [application.properties](/D:/Bajaj%20task/src/main/resources/application.properties) before running:
 
 ```properties
-quiz.regNo=YOUR_REG_NO
+# This sets the server port
+server.port=8080
+
+# Your registration number (IMPORTANT)
+quiz.regNo=RA2311003011875 
+
+# Base API URL (do not change)
 quiz.baseUrl=https://devapigw.vidalhealthtpa.com/srm-quiz-task
+
+# Number of polls (must be 10 as per assignment)
 quiz.pollCount=10
+
+# Delay between polls in milliseconds (5 seconds)
 quiz.delayMillis=5000
 ```
 
@@ -57,7 +67,7 @@ The app:
 ## Project structure
 
 ```text
-src/main/java/com/example/quizfinal
+src/main/java/com/rounaq/quiz
 ├── client
 ├── config
 ├── controller
