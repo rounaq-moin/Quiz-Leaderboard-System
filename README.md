@@ -27,7 +27,7 @@ Update [application.properties](/D:/Bajaj%20task/src/main/resources/application.
 # This sets the server port
 server.port=8080
 
-# Your registration number (IMPORTANT)
+# Your registration number - YOUR_REG_NO (IMPORTANT)
 quiz.regNo=RA2311003011875 
 
 # Base API URL (do not change)
