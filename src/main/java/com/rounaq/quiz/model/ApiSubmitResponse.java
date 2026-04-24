@@ -1,4 +1,4 @@
-package com.example.quizfinal.model;
+package com.rounaq.quiz.model;
 
 import lombok.Data;
 

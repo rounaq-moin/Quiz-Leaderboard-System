@@ -1,4 +1,4 @@
-package com.example.quizfinal.exception;
+package com.rounaq.quiz.exception;
 
 import java.util.Map;
 import org.springframework.http.ResponseEntity;

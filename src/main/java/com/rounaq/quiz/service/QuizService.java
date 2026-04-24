@@ -1,12 +1,12 @@
-package com.example.quizfinal.service;
+package com.rounaq.quiz.service;
 
-import com.example.quizfinal.client.ApiClient;
-import com.example.quizfinal.config.QuizProperties;
-import com.example.quizfinal.model.ApiResponse;
-import com.example.quizfinal.model.ApiSubmitResponse;
-import com.example.quizfinal.model.Event;
-import com.example.quizfinal.model.FinalResponse;
-import com.example.quizfinal.model.LeaderboardEntry;
+import com.rounaq.quiz.client.ApiClient;
+import com.rounaq.quiz.config.QuizProperties;
+import com.rounaq.quiz.model.ApiResponse;
+import com.rounaq.quiz.model.ApiSubmitResponse;
+import com.rounaq.quiz.model.Event;
+import com.rounaq.quiz.model.FinalResponse;
+import com.rounaq.quiz.model.LeaderboardEntry;
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
 import java.util.ArrayList;

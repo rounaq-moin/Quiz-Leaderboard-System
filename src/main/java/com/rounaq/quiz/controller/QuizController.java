@@ -1,7 +1,7 @@
-package com.example.quizfinal.controller;
+package com.rounaq.quiz.controller;
 
-import com.example.quizfinal.model.FinalResponse;
-import com.example.quizfinal.service.QuizService;
+import com.rounaq.quiz.model.FinalResponse;
+import com.rounaq.quiz.service.QuizService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

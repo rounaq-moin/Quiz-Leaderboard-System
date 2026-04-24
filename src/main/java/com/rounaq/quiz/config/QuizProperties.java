@@ -1,4 +1,4 @@
-package com.example.quizfinal.config;
+package com.rounaq.quiz.config;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

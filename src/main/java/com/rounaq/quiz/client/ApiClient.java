@@ -1,6 +1,6 @@
-package com.example.quizfinal.client;
+package com.rounaq.quiz.client;
 
-import com.example.quizfinal.config.QuizProperties;
+import com.rounaq.quiz.config.QuizProperties;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;

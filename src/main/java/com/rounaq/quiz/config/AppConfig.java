@@ -1,4 +1,4 @@
-package com.example.quizfinal.config;
+package com.rounaq.quiz.config;
 
 import com.google.gson.Gson;
 import java.net.http.HttpClient;
